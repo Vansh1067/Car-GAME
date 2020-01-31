@@ -100,7 +100,7 @@ body{
 
 .car ,.enemy{
     background-color: red;
-    background-image: url('i.PNG');
+    background-image: url('i.png');
         background-size:100% 100%;
         background-repeat: no-repeat;
         border-radius: 10px;
@@ -111,7 +111,7 @@ body{
     bottom:10px;
 }
 .enemy{
-    background-image: url('i2.PNG');
+    background-image: url('i2.png');
 }
 .main{
     display:flex;
